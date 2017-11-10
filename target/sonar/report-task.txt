@@ -1,0 +1,5 @@
+projectKey=JavaApplication:JavaApplication
+serverUrl=http://10.0.0.243:9000
+dashboardUrl=http://10.0.0.243:9000/dashboard/index/JavaApplication:JavaApplication
+ceTaskId=AV-jpJ9_xsd9Q4-aOgS1
+ceTaskUrl=http://10.0.0.243:9000/api/ce/task?id=AV-jpJ9_xsd9Q4-aOgS1
